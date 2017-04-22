@@ -431,13 +431,15 @@ warn("Big PR -- consider splitting it up into multiple changesets") if git.lines
 
 ----
 
-## オレ達の戦いは これからだ！！
+## 銀の弾丸などない 
 
-![](img/shingeki.png)
+* レガシーコードはこれまで通りコツコツ潰していくしかない
 
 ----
 
-## ご静聴ありがとうございました 🙏
+## オレ達の戦いは これからだ！！
+
+![](img/shingeki.png)
 
 ----
 
@@ -454,3 +456,7 @@ warn("Big PR -- consider splitting it up into multiple changesets") if git.lines
 -----
 
 *PyCon JP 2017 でまたお会いしましょう 👋*
+
+----
+
+## ご静聴ありがとうございました 🙏
